@@ -1,4 +1,4 @@
-``` Python
+```Python
 
 class Solution:
     def addToArrayForm(self, num: List[int], k: int) -> List[int]:
@@ -18,7 +18,6 @@ class Solution:
         
         newNum_list.reverse()
         return newNum_list
-        
         
 ```
 
